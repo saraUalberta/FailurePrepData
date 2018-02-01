@@ -1,1 +1,0 @@
-mris_inflate -rusage /usr/local/freesurfer/subjects/4021/touch/rusage.mris_inflate.lh.dat ../surf/lh.smoothwm ../surf/lh.inflated
